@@ -1,6 +1,6 @@
 # 2-Norm of a matrix
 ## Aim
-To write a program to find the 2-norm of the matrix and display the result in two decimal places.
+To write a program to find the 2-norm of the matrix and display the   result in two decimal places.
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
